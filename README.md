@@ -2,5 +2,5 @@
 
 To run script install python-bs4
 
-On ubuntu:
+Linux:
 sudo apt-get install python-bs4
